@@ -6,7 +6,7 @@ A simple, fun, and responsive **Tic Tac Toe** game built using **HTML**, **CSS**
 
 ## 🚀 Play the game live
 
-> Try the game live by opening `index.html` in any modern web browser.
+https://tic-tac-ovoghkjvu-anchal-mishras-projects-a78c9552.vercel.app
 
 ---
 
