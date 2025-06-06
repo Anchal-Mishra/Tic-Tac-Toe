@@ -28,10 +28,6 @@ tic-tac-toe/
 ├── style.css # CSS styling file
 └── script.js # Game logic in JavaScript
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🛠️ How to Run the Game
